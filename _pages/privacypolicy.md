@@ -12,18 +12,18 @@ TL;DR -> We do not collect any information. It is just a BMI Calculator.
 
 <br>
 
-## 1 Information We Collect
+## 1.0 Information We Collect
 No information is collected
 
 <br>
 
-## 2 What Personal Information we collect about you and how we collect it
+## 2.0 What Personal Information we collect about you and how we collect it
 We don't. Nothing is collected.
 
 <br>
 
-## 3 What rights do you, as the data subject, have
-Any information used in this application are used locally and not collected. If in doubt, contact us at fitri.abakar@gmail.com
+## 3.0 What rights do you, as the data subject, have
+Any information used in this application are used locally and not collected. If in doubt, contact us at [fitri.abakar@gmail.com](fitri.abakar@gmail.com).
 
 <br>
 
